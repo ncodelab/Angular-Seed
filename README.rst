@@ -1,3 +1,9 @@
+.. image:: https://travis-ci.org/EuDgee/Angular-Seed.svg?branch=master
+    :target: https://travis-ci.org/EuDgee/Angular-Seed
+
+.. image:: https://codecov.io/gh/EuDgee/Angular-Seed/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/EuDgee/Angular-Seed
+
 ====================
 Angular Seed Project
 ====================
