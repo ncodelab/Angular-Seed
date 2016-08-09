@@ -8,6 +8,6 @@ describe('Start Page', () => {
     browser.get('/');
 
     expect(browser.getTitle()).to.eventually.equal('Angular Seed Application');
-    expect(browser.getLocationAbsUrl()).to.eventually.equal('/app/page1');
+    expect(browser.getLocationAbsUrl()).to.eventually.equal('/page1');
   });
 });
