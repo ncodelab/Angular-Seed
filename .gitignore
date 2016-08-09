@@ -1,0 +1,17 @@
+### JetBrains
+/.idea
+*.iml
+
+### Npm
+npm-debug.log*
+/node_modules
+
+### Build
+/public
+*.tar.gz
+
+### Mac OS
+.DS_Store
+
+### Local Settings
+assets/json/config.json

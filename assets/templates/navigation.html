@@ -1,0 +1,19 @@
+<img src="images/hello.svg">
+
+<h1>
+  {{message}}
+</h1>
+
+<ul class="sidebar-menu">
+  <li ui-sref-active="active">
+    <a ui-sref="app.page1">Page 1</a>
+  </li>
+  <li ui-sref-active="active">
+    <a ui-sref="app.page2({'id': 1})">Page 2</a>
+  </li>
+</ul>
+
+<p>
+  From service: {{messageFromService}}
+</p>
+<div ui-view></div>
