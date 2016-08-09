@@ -10,4 +10,4 @@ branches:
   only:
   - master
 script:
-    - npm run testOnce
+  - npm run testOnce
